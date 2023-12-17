@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import logo from "../../assets/logo.png";
+=======
+import logo from '../../assets/logo.png';
+>>>>>>> 46e727372094926ce27418d766b614c66c37d907
 
 import tomate from '../../assets/frutas/Tomate.png';
 import brocolis from '../../assets/frutas/Brócolis.png';
@@ -12,11 +16,19 @@ const cesta = {
     },
     detalhes: {
         nome: "Cesta de Verduras",
+<<<<<<< HEAD
         imagemFazenda: logo,
         nomeFazenda: "Jenny Jack Farm",
         descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para a cozinha",
         preco: "R$ 40,00",
         botao: "Comprar",
+=======
+        logoFazenda: logo,
+        nomeFazenda: "Jenny Jack Farm",
+        descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
+        preco: "R$ 40,00",
+        botao: "Comprar"
+>>>>>>> 46e727372094926ce27418d766b614c66c37d907
     },
     itens: {
         titulo: "Itens da cesta",

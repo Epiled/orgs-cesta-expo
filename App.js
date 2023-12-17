@@ -25,4 +25,4 @@ export default function App() {
       <Cesta {...mock} />
     </SafeAreaView>
   );
-}
+};
